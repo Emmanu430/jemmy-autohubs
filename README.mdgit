@@ -1,0 +1,1 @@
+# jemmy-autohubs initgit add .git commit -m Build Jemmy Autohubs: home, inventory, about, contact, lightbox, animationsgit branch -M maingit remote add origin https://github.com/Emmanu430/jemmy-autohubs.gitgit push -u origin main

@@ -1,0 +1,27 @@
+    [
+    {
+        "id": "lx-570",
+        "name": "Lexus LX 570",
+        "year": 2019,
+        "price": "₦10,000,000",
+        "mileage": "62,000 km",
+        "images": [
+        { "src": "/cars/lx-outside.jpg", "view": "Exterior" },
+        { "src": "/cars/lx-inside.jpg", "view": "Interior" },
+        { "src": "/cars/lx-back.jpg", "view": "Exterior" }
+        ]
+    },
+    {
+        "id": "toyota",
+        "name": "Toyota rav 4",
+        "year": 2020,
+        "price": "₦13,600,000",
+        "mileage": "41,000 km",
+        "images": [
+        { "src": "/cars/rr-outside.jpg", "view": "Exterior" },
+        { "src": "/cars/rr-inside.jpg", "view": "Interior" },
+        { "src": "/cars/rr-back.jpg", "view": "Exterior" },
+        { "src": "/cars/rr-front.jpg", "view": "Exterior" }
+        ]
+    }
+    ]
